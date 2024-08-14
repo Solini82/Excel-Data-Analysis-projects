@@ -10,7 +10,7 @@ This repository showcases various data analysis and visualization projects using
 
 ## Projects
 
-### 1. Sales Data Analysis
+### 1. Superstore Data Analysis
 **Dataset Columns**:
 - `Order ID`, `Order Date`, `Ship Date`, `Ship Mode`, `Customer ID`, `Customer Name`, `Segment`, `Country`, `City`, `State`, `Postal Code`, `Region`, `Product ID`, `Category`, `Sub-Category`, `Product Name`, `Sales`, `Quantity`, `Discount`, `Profit`
 
